@@ -28,7 +28,130 @@
 			<div class="main-panel">
 				<div class="content-wrapper">
 					<div class="row">
-              <!-- Content -->
+            <div class="col-md-3 col-sm-12">
+              <a title="View Staffs" href="">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="row align-items-center">
+                      <div class="col">
+                        <div class="card-text">
+                          <p class="text-muted text-uppercase">
+                            Staff
+                          </p>
+                          <div class="d-flex align-items-center">
+                            <div>
+                              <span class="h3">
+                                1
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-auto">
+                        <div>
+                          <span class="text-muted h1">
+                            <i class="mdi mdi-account-outline"></i>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-12">
+              <a title="View Staffs" href="">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="row align-items-center">
+                      <div class="col">
+                        <div class="card-text">
+                          <p class="text-muted text-uppercase">
+                            Department
+                          </p>
+                          <div class="d-flex align-items-center">
+                            <div>
+                              <span class="h3">
+                                0
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-auto">
+                        <div>
+                          <span class="text-muted h1">
+                            <i class="mdi mdi-door-closed"></i>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-12">
+              <a title="View Staffs" href="">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="row align-items-center">
+                      <div class="col">
+                        <div class="card-text">
+                          <p class="text-muted text-uppercase">
+                            Designation
+                          </p>
+                          <div class="d-flex align-items-center">
+                            <div>
+                              <span class="h3">
+                                0
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-auto">
+                        <div>
+                          <span class="text-muted h1">
+                            <i class="mdi mdi-folder-account-outline"></i>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
+            <div class="col-md-3 col-sm-12">
+              <a title="View Staffs" href="">
+                <div class="card">
+                  <div class="card-body">
+                    <div class="row align-items-center">
+                      <div class="col">
+                        <div class="card-text">
+                          <p class="text-muted text-uppercase">
+                            User
+                          </p>
+                          <div class="d-flex align-items-center">
+                            <div>
+                              <span class="h3">
+                                0
+                              </span>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-auto">
+                        <div>
+                          <span class="text-muted h1">
+                            <i class="mdi mdi-account-multiple-outline"></i>
+                          </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </a>
+            </div>
 					</div>
 				</div>
         <!-- JS Script & Footer -->
